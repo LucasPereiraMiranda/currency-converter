@@ -48,3 +48,16 @@ O projeto do sistema de conversão de moedas foi construído com as seguintes te
 ### convertendo as moedas:
 
 ![alt text](.github/converted.png)
+
+## :boom: Instruções de execução
+
+```bash
+# Podemos clonar este repositório executando
+$ git clone git@github.com:LucasPereiraMiranda/currency-converter.git
+
+
+$ Podemos executar no browser ou com o live server apontando para public/index.html
+
+```
+
+---

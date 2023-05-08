@@ -1,22 +1,24 @@
-# Conversor de moedas
+<h1 align="center">
+  <br/>
+  Currency converter
+</h1>
 
-Descrição:
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LucasPereiraMiranda/currency-converter">
 
-Projeto de um sistema de conversão de moedas para a atividade prática 1 de sistemas Web.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LucasPereiraMiranda/currency-converter">
+  
+  <a href="https://github.com/LucasPereiraMiranda/currency-converter/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasPereiraMiranda/currency-converter">
+  </a>
 
-Imagens do projeto em execução:
+  <a href="https://github.com/LucasPereiraMiranda/currency-converter/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/LucasPereiraMiranda/currency-converter">
+  </a>
 
-Página inicial:
-![alt text](.github/init.png)
+  <a href="https://github.com/LucasPereiraMiranda/currency-converter/issues">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/LucasPereiraMiranda/currency-converter">
+  </a>
+</p>
 
-Antes de converter as moedas:
-![alt text](.github/in-sequence.png)
-
-convertendo as moedas:
-![alt text](.github/converted.png)
-
-Aquivo de Reset css utilizado:
-
-- http://meyerweb.com/eric/tools/css/reset/
-  v2.0 | 20110126
-  License: none (public domain)
+<br>

@@ -61,3 +61,11 @@ $ Podemos executar no browser ou com o live server apontando para public/index.h
 ```
 
 ---
+
+### 💻 Referências
+
+Aquivo de Reset css utilizado:
+
+- http://meyerweb.com/eric/tools/css/reset/
+  v2.0 | 20110126
+  License: none (public domain)

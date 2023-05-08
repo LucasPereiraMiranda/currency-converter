@@ -26,3 +26,25 @@
 ## 💻 Descrição do projeto
 
 Projeto de um sistema de conversão de moedas desenvolvido como um dos projetos da atividade prática de sistemas Web I cursado na UFOP em 2021/01.
+
+## 🚀 Techs
+
+O projeto do sistema de conversão de moedas foi construído com as seguintes tecnologias
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## 💻 Imagens do projeto em execução
+
+### Página inicial
+
+![alt text](.github/init.png)
+
+### Antes de converter as moedas:
+
+![alt text](.github/in-sequence.png)
+
+### convertendo as moedas:
+
+![alt text](.github/converted.png)

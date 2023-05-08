@@ -22,3 +22,7 @@
 </p>
 
 <br>
+
+## 💻 Descrição do projeto
+
+Projeto de um sistema de conversão de moedas desenvolvido como um dos projetos da atividade prática de sistemas Web I cursado na UFOP em 2021/01.
